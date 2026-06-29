@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ViralPlus 1.0.0\n"
+"Report-Msgid-Bugs-To: https://viralplus.ir/support\n"
+"POT-Creation-Date: 2026-06-29 15:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: includes/class-vp-wallet.php:415
+msgid "لطفاً ابتدا وارد شوید."
+msgstr ""
